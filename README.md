@@ -22,17 +22,8 @@ One challenge for me in making this code was knowing what functions to use to ac
 
 Transferable skills:
 Skills transferable from this project to other projects or coursework include:
-Object-oriented programming principles and class design.
-Input validation and error handling.
-Modular and structured code organization.
-Formatting and output for presenting data.
-Using loops and conditional statements effectively.
+Object-oriented programming principles and class design, input validation and error handling, modular and structured code organization, formatting and output for presenting data, and using loops and conditional statements effectively.
 
 Maintainability, readability, and adaptability:
 To make the program maintainable, readable, and adaptable, the following practices were used:
-Meaningful variable and function names.
-Consistent code formatting and indentation.
-Clear separation of concerns between user interface and calculations.
-Use of functions and methods to encapsulate specific functionality.
-Use of comments to explain the purpose of functions and code sections.
-The use of a class-based structure allows for easy extension with additional features or calculations.
+Meaningful variable and function names, consistent code formatting and indentation, clear separation of concerns between user interface and calculations, use of functions and methods to encapsulate specific functionality, use of comments to explain the purpose of functions and code sections, and the use of a class-based structure allows for easy extension with additional features or calculations.
